@@ -1,3 +1,4 @@
+#! /usr/bin/python
 import sys
 
 valid_set = {'0', '1', '4', '5', '9'}
